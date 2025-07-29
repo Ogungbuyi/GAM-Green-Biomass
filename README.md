@@ -8,7 +8,7 @@ This repository supports the study on using PlanetScope imagery and generalised 
 
 - Compared NDVI, SAVI, and EVI for estimating green and total pasture biomass  
 - GAMs outperformed linear regression in capturing non-linear patterns  
-- SAVI was best for green biomass (R² = 0.52); NDVI better for total biomass (R² = 0.43)  
+- SAVI was best for green biomass, while NDVI is better for total biomass (dry and green biomass)  
 - PlanetScope captured fractional cover variability for land management
 
 ## Citation
